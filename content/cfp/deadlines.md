@@ -13,7 +13,7 @@ active: true
 <span style=color:grey>Revise and Resubmit: <s>May 26</s> May 27, 2025</span>  
 <span style=color:grey>Notification of acceptance: June 23, 2025</span>  
 <span style=color:grey>Camera-ready copy: <s>July 14</s>July 4, 2025</span>  
-Author registration close: <span style=color:blue;font-weight:bold>July 15, 2025</span> (see [registration](/2025/registration#authors))  
-Conference:  July 29 - 31, 2025  
+<span style=color:grey>Author registration close: July 15, 2025 (see [registration](/2025/registration#authors))</span>  
+Conference:  <span style=color:blue;font-weight:bold>July 29 - 31, 2025</span>  
 
-{{< cta cta_text="Submit Camera-ready copy" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
+{{< cta cta_text="Submission closed" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
