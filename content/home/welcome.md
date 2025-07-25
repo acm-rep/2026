@@ -30,6 +30,7 @@ advanced:
 {{< cta cta_text="Register" cta_link="/2025/registration" >}}
 {{< cta cta_text="Keynotes" cta_link="/2025/keynotes" >}}
 {{< cta cta_text="Tutorials" cta_link="/2025/tutorials" >}}
+{{< cta cta_text="Posters" cta_link="/2025/posters" >}}
 {{< cta cta_text="Agenda" cta_link="/2025/agenda" >}}
 {{< cta cta_text="Travel & Venue: Univeristy of British Columbia (UBC)" cta_link="/2025/venue" >}}
 
