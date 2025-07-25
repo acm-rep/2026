@@ -38,7 +38,7 @@ user_groups:
 - Keynote Speaker
 ---
 
-**Title:** Reproducibility and Responsibility: Engineering Trust in a Time of Scientific Skepticism
+**Title:** Reproducibility & responsibility: Engineering trust in a time of skepticism about Science
 
 **Abstract:** The conversation around reproducibility is often framed in terms of technical rigor but at its core, it’s about trust. As engineers, we are deeply involved in shaping how scientific knowledge is produced, shared, and ultimately judged. In this talk, I’ll reflect on how the so-called reproducibility crisis intersects with a broader erosion of public trust in science, and what that means for those of us who build the tools and pipelines behind the research. Rather than assigning blame or prescribing fixes, this is a call-to-action to consider how openness, communication, and collaboration with users can make our work not only more robust, but more meaningful. The challenges are real, but so is the opportunity to help rebuild confidence in science from the ground up.
 
