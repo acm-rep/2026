@@ -20,10 +20,13 @@ sections:
         - 84 (VCC–UBC)
         - 99 B-Line (Commercial–Broadway Station)
         #### From Vancouver International Airport (YVR):
-        - Take the **Canada Line SkyTrain** from YVR to **Oakridge-41st Station**, then transfer to the **R4** bus westbound to UBC. The entire trip takes approximately **50–60 minutes** and is fully accessible.
+        - Take the **Canada Line SkyTrain** from YVR to **Langara-49th Avenue Station**, then transfer to the **49** bus westbound to UBC right outside of the train station (please check [Google Maps](https://www.google.com/maps/@49.2261649,-123.1160184,3a,75y,305.56h,86.64t/data=!3m7!1e1!3m5!1sf1WpScbin85uFE-ESK2z-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.3590961165112105%26panoid%3Df1WpScbin85uFE-ESK2z-Q%26yaw%3D305.5582913958102!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D)). The entire trip takes approximately **50–60 minutes** and is fully accessible. This route is recommended if you have luggages.
+        - Take the **Canada Line SkyTrain** from YVR to **Oakridge-41st Station**, then transfer to the **R4** bus westbound to UBC. The entire trip takes approximately **50–60 minutes**. This route will require a few minutes walk between the bus stop and the train station.
         - Take the **Canada Line SkyTrain** from YVR to **Broadway–City Hall Station**, then transfer to the **99 B-Line** bus westbound to UBC. The entire trip takes approximately **50–60 minutes** and is fully accessible.
 
         Plan your trip using [TransLink’s Trip Planner](https://www.translink.ca/trip-planner) to find the most efficient route. Buses arrive at multiple points across campus — check signage and maps to find your return stop.
+
+        [Fare Info](https://www.translink.ca/transit-fares/pricing-and-fare-zones): If you are buying one single adult ticket, you can save time and go paperless by tapping your contactless debit, credit card, or mobile wallet right at the SkyTrain fare gate or card reader on bus. The card readers accept contactless Interac Debit, American Express, Mastercard, and Visa credit cards along with Apple Pay, Google Pay, and Samsung Pay. Once tapped, your payment is valid for 90 minutes and you can use the same card to tap out when exiting train stations. You only need to tap when you get on a bus, but don't have to tap when getting off.
 
         > Bikes are welcome on most transit buses — just inform the driver and load your bike onto the front rack.
 
