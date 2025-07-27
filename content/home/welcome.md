@@ -27,7 +27,6 @@ advanced:
   css_class:
 ---
 
-{{< cta cta_text="Register" cta_link="/2025/registration" >}}
 {{< cta cta_text="Keynotes" cta_link="/2025/keynotes" >}}
 {{< cta cta_text="Tutorials" cta_link="/2025/tutorials" >}}
 {{< cta cta_text="Posters" cta_link="/2025/posters" >}}

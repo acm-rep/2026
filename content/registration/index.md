@@ -6,7 +6,7 @@ title: "Registration"
 Registrations will be online only and will close on July 25, 2025. **On-site registrations will not be available**.
 {{% /callout %}}
 
-{{% cta cta_text="Register" cta_link="https://web.cvent.com/event/2da7dd28-2938-4ea7-b3e4-4a27b6c3c2e8/summary" cta_new_tab="false" %}}
+{{% cta cta_text="Registration closed" cta_link="https://web.cvent.com/event/2da7dd28-2938-4ea7-b3e4-4a27b6c3c2e8/summary" cta_new_tab="false" %}}
 
 
 
@@ -29,8 +29,8 @@ groups to contact us.
 
 <span style=color:grey>Early-bird registration close: July 7</span>  
 <span style=color:grey>Author registration close: July 15</span>  
-Registration close: <span style=color:blue;font-weight:bold>July 25</span>  
-Conference: July 29-31, 2025  
+<span style=color:grey>Registration close: July 25</span>  
+Conference: <span style=color:blue;font-weight:bold>July 29-31, 2025</span>  
 
 # Terms and Conditions
 
