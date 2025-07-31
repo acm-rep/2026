@@ -73,6 +73,10 @@ main:
     parent: program
     url: accepted
     weight: 40
+  - name: Slides
+    parent: program
+    url: "https://drive.google.com/drive/folders/167M2Dk3Xi4I9-vph-doooLTvKpAfHTyz?usp=sharing"
+    weight: 50
 #  - name: Proceedings
 #    parent: program
 #    url: https://dl.acm.org/doi/proceedings/10.1145/3589806

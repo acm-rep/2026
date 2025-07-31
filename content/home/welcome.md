@@ -31,6 +31,7 @@ advanced:
 {{< cta cta_text="Tutorials" cta_link="/2025/tutorials" >}}
 {{< cta cta_text="Posters" cta_link="/2025/posters" >}}
 {{< cta cta_text="Agenda" cta_link="/2025/agenda" >}}
+{{< cta cta_text="Slides" cta_link="https://drive.google.com/drive/folders/167M2Dk3Xi4I9-vph-doooLTvKpAfHTyz?usp=sharing" cta_new_tab="false" >}}
 {{< cta cta_text="Travel & Venue: Univeristy of British Columbia (UBC)" cta_link="/2025/venue" >}}
 
 Sponsors
