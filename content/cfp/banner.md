@@ -12,8 +12,8 @@ active: true
 design:
   columns: '1'
   background:
-    image: background.png
-    image_darken: 0.2
+    image: background.jpg
+    image_darken: 0.3
     image_parallax: false
     image_position: center
     image_size: cover
@@ -27,11 +27,8 @@ advanced:
   css_class: 
 ---
 
-The 3rd ACM Conference on Reproducibility and Replicability (ACM REP '25) aims to bring together experts and practitioners engaged in the advancement and conduct of reproducible science in computing disciplines. The conference will serve as a premier forum for the exchange and presentation of the concepts, tools, techniques, practice and state-of-art in reproducible science. The conference committee invites original research contributions and practical system designs, implementations, and evaluations on several topics relating to reproducibility and replicability. The ACM REP program will consist of peer-reviewed articles, invited talks, panels, posters, and demonstrations. 
-
-{{< cta cta_text="Important Dates" cta_link="#deadlines" cta_new_tab="false" >}}
-{{< cta cta_text="Submission closed" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
+The 4th ACM Conference on Reproducibility and Replicability (ACM REP '26) aims to bring together experts and practitioners engaged in the advancement and conduct of reproducible science in computing disciplines. The conference will serve as a premier forum for the exchange and presentation of the concepts, tools, techniques, practice and state-of-art in reproducible science. The conference committee invites original research contributions and practical system designs, implementations, and evaluations on several topics relating to reproducibility and replicability. The ACM REP program will consist of peer-reviewed articles, invited talks, panels, posters, and demonstrations. 
 
 The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/). (See ACM REP's [history](https://acm-rep.github.io/history).) All accepted papers will be published in the ACM Digital Library.
 
-**Table of Contents:** [Topics of Interest](#topics) | [Submission Guidelines](#submissions) | [**Important Dates**](#deadlines) | [Program Committee](#pc)
+<center>Stay tuned!</center>

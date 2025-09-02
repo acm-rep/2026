@@ -4,7 +4,7 @@ headless: true # This file represents a page section.
 weight: 40 # Order that this section will appear.
 title: "Important Dates"
 subtitle: ""
-active: true
+active: false
 ---
 
 <span style=color:grey>Abstract submission (Long and Short): <s>March 31</s> April 7, 2025, 23:59 AOE</span>  

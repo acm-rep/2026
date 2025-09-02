@@ -4,7 +4,7 @@ headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
 title: "Topics of Interest"
 subtitle: ""
-active: true
+active: false
 ---
 
 ACM REP '25 welcomes submissions across computing disciplines, spanning both traditional computer science and interdisciplinary scientific computing applications in biology, chemistry, physics, astronomy, genomics, geosciences, etc. The conference particularly values submissions that demonstrate reproducible experimental results. Where full reproduction is not achieved, detailed documentation of the reproducibility experience is equally valuable.
