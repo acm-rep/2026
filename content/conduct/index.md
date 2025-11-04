@@ -43,10 +43,8 @@ In the event of unacceptable behavior, participants may wish to inform a person 
 There may be cases (such as those involving Title IX issues in the United States and venue- or employer-specific policies) where an on-site person who is informed of harassment will be required to file a complaint.
 {{% /callout %}}
 
-General Chair: Thomas Pasquier  
-Program Chairs: Ashish Gehani & Khalid Belhajjame  
-Tutorial Chairs: Line Pouchard & Tanzima Islam  
-Poster Chair: Ana Trišović  
-Local Arrangements Chair: Nguyen Phong Hoang  
+General Chair: Alex Voulimeneas  
+Program Chairs: Georgios Portokalidis & Soham Chakraborty  
+
 
 This code of content was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW 2019 conference code of conduct](https://cscw.acm.org/2019/code-of-conduct.html).
