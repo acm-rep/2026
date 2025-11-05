@@ -30,5 +30,3 @@ advanced:
 The 4th ACM Conference on Reproducibility and Replicability (ACM REP '26) aims to bring together experts and practitioners engaged in the advancement and conduct of reproducible science in computing disciplines. The conference will serve as a premier forum for the exchange and presentation of the concepts, tools, techniques, practice and state-of-art in reproducible science. The conference committee invites original research contributions and practical system designs, implementations, and evaluations on several topics relating to reproducibility and replicability. The ACM REP program will consist of peer-reviewed articles, invited talks, panels, posters, and demonstrations. 
 
 The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/). (See ACM REP's [history](https://acm-rep.github.io/history).) All accepted papers will be published in the ACM Digital Library.
-
-<center>Stay tuned!</center>
