@@ -11,6 +11,7 @@ main:
   #   parent: participate
   #   url: cft
   #   weight: 40
+  
   - name: Call for Papers
     parent: participate
     url: cfp
