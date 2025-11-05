@@ -4,10 +4,10 @@ headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
 title: "Topics of Interest"
 subtitle: ""
-active: false
+active: true
 ---
 
-ACM REP '25 welcomes submissions across computing disciplines, spanning both traditional computer science and interdisciplinary scientific computing applications in biology, chemistry, physics, astronomy, genomics, geosciences, etc. The conference particularly values submissions that demonstrate reproducible experimental results. Where full reproduction is not achieved, detailed documentation of the reproducibility experience is equally valuable.
+ACM REP '26 welcomes submissions across computing disciplines, spanning both traditional computer science and interdisciplinary scientific computing applications in biology, chemistry, physics, astronomy, genomics, geosciences, etc. The conference particularly values submissions that demonstrate reproducible experimental results. Where full reproduction is not achieved, detailed documentation of the reproducibility experience is equally valuable.
 
 The conference addresses various aspects of reproducibility and replicability, including but not limited to the following topics: 
 
@@ -44,8 +44,20 @@ The conference addresses various aspects of reproducibility and replicability, i
 - Challenges of reproducing security experiments.
 - Securing reproducibility infrastructure.
 
+### Reproducibility Campaigns
+- Large-scale or focused efforts to reproduce results within a specific computer science or interdisciplinary domain.
+- Challenges and lessons learned from reproducing published papers or benchmark studies.
+- Comparative analyses of findings across independently reproduced works.
+- Methodological or infrastructural experiences in coordinating multi-paper or community-wide reproduction efforts.
+- Lifecycle studies of reproduction, from initial replication to long-term maintenance and validation of results.
+- Infrastructure and tooling challenges encountered during systematic reproduction exercises.
+
 ### Broader Reproducibility
 - Cost-benefit analysis frameworks for reproducibility.
 - Novel methods and techniques that impact reproducibility.
 - Reusability, repurposability, and replicability methods. 
 - Long-term artifact archiving and verification/testing for future reproducibility.
+
+{{< callout note >}}
+While ACM REP welcomes work that reproduces or replicates prior studies, **submissions should go beyond simply re-running existing experiments**. Papers are expected to provide **new analysis, insights, or improvements**, for example by identifying reproducibility challenges, proposing methodological refinements, or offering broader lessons learned for the community.
+{{< /callout >}}
