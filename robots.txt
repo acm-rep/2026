@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://acm-rep.github.io/2026/sitemap.xml
