@@ -4,7 +4,7 @@ headless: true # This file represents a page section.
 weight: 30 # Order that this section will appear.
 title: "Submission Guidelines"
 subtitle: ""
-active: true
+active: false
 ---
 We solicit papers describing original work relevant to reproducibility and independent verification of scientific results. The submission must not be published or under review elsewhere. ACM REP 2025 is a **double-blind** reviewed conference. Author names should not be included. Past work should be referred to in the third person. Self-citations and supplementary material (including code repositories) should also be anonymized.
 

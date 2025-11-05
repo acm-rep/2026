@@ -13,27 +13,26 @@ active: true
 -->
 
 ### General Chair
-Thomas Pasquier (University of British Columbia)  
+Alex Voulimeneas (Delft University of Technology)  
 
 ### Program Chairs
-Ashish Gehani (SRI)  
-Khalid Belhajjame (University Paris - Dauphine)  
+Georgios Portokalidis (IMDEA Software)  
+Soham Chakraborty (TU Delft)  
 
 ### Tutorial Chairs
-Line Pouchard (Sandia National Laboratories)  
-Tanzima Islam (Texas State University)  
+TBD  
 
 ### Poster Chair
-Ana Trišović (MIT)  
+TBD  
 
 ### Local Arrangements Chair
-Nguyen Phong Hoang (University of British Columbia)  
+TBD  
   
 ### Proceedings
 Philippe Bonnet (University of Copenhagen)  
 
 ### Public Relations
-Sarah Cohen-Boulakia (Paris-Saclay University)  
+TBD  
 
 ### Website
 Carlos Maltzahn (UC Santa Cruz)  

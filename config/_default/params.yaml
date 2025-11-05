@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} The University of British Columbia. This work is licensed under {license}'
+    notice: '© {year} Delft University of Technology. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/acm-rep/2025'
+    url: 'https://github.com/acm-rep/2026'
     content_dir: content
     branch: main
   avatar:

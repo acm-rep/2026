@@ -7,33 +7,33 @@ main:
   - name: Participate
     identifier: participate
     weight: 10
-  - name: Call for Tutorials
-    parent: participate
-    url: cft
-    weight: 40
+  # - name: Call for Tutorials
+  #   parent: participate
+  #   url: cft
+  #   weight: 40
   - name: Call for Papers
     parent: participate
     url: cfp
     weight: 30
-  - name: Call for Posters
-    parent: participate
-    url: cfposters
-    weight: 45
-  - name: Register
-    parent: participate
-    url: registration
-    weight: 10
-  - name: Sponsor
-    parent: participate
-    url: sponsor
-    weight: 20
+  # - name: Call for Posters
+  #   parent: participate
+  #   url: cfposters
+  #   weight: 45
+  # - name: Register
+  #   parent: participate
+  #   url: registration
+  #   weight: 10
+  # - name: Sponsor
+  #   parent: participate
+  #   url: sponsor
+  #   weight: 20
   - name: Attend
     identifier: attend
     weight: 20
-  - name: Travel & Venue
-    parent: attend
-    url: venue
-    weight: 3
+  # - name: Travel & Venue
+  #   parent: attend
+  #   url: venue
+  #   weight: 3
   # - name: Housing
   #   parent: attend
   #   url: housing
@@ -50,33 +50,33 @@ main:
     parent: attend
     url: conduct
     weight: 30
-  - name: Program
-    identifier: program
-    weight: 30
-  - name: Agenda
-    parent: program
-    url: agenda
-    weight: 10
-  - name: Featured Keynote Speakers
-    parent: program
-    url: keynotes
-    weight: 20
-  - name: Tutorials
-    parent: program
-    url: tutorials
-    weight: 30
-  - name: Posters
-    parent: program
-    url: posters
-    weight: 35
-  - name: Accepted Papers
-    parent: program
-    url: accepted
-    weight: 40
-  - name: Slides
-    parent: program
-    url: "https://drive.google.com/drive/folders/167M2Dk3Xi4I9-vph-doooLTvKpAfHTyz?usp=sharing"
-    weight: 50
+  # - name: Program
+  #   identifier: program
+  #   weight: 30
+  # - name: Agenda
+  #   parent: program
+  #   url: agenda
+  #   weight: 10
+  # - name: Featured Keynote Speakers
+  #   parent: program
+  #   url: keynotes
+  #   weight: 20
+  # - name: Tutorials
+  #   parent: program
+  #   url: tutorials
+  #   weight: 30
+  # - name: Posters
+  #   parent: program
+  #   url: posters
+  #   weight: 35
+  # - name: Accepted Papers
+  #   parent: program
+  #   url: accepted
+  #   weight: 40
+  # - name: Slides
+  #   parent: program
+  #   url: "https://drive.google.com/drive/folders/167M2Dk3Xi4I9-vph-doooLTvKpAfHTyz?usp=sharing"
+  #   weight: 50
 #  - name: Proceedings
 #    parent: program
 #    url: https://dl.acm.org/doi/proceedings/10.1145/3589806
