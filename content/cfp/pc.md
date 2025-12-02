@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-active: false
+active: true
 weight: 50
 title: "Program Committee"
 design:
@@ -11,9 +11,8 @@ design:
 ---
 
 ### Program Chairs
-Ashish Gehani (SRI)
-
-Khalid Belhajjame (University Paris - Dauphine)
+Georgios Portokalidis (IMDEA Software)  
+Soham Chakraborty (TU Delft)  
 
 ### Program Committee
 
