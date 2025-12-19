@@ -4,9 +4,9 @@ headless: true # This file represents a page section.
 weight: 30 # Order that this section will appear.
 title: "Submission Guidelines"
 subtitle: ""
-active: false
+active: true
 ---
-We solicit papers describing original work relevant to reproducibility and independent verification of scientific results. The submission must not be published or under review elsewhere. ACM REP 2025 is a **double-blind** reviewed conference. Author names should not be included. Past work should be referred to in the third person. Self-citations and supplementary material (including code repositories) should also be anonymized.
+We solicit papers describing original work relevant to reproducibility and independent verification of scientific results. The submission must not be published or under review elsewhere. ACM REP 2026 is a **double-blind** reviewed conference. Author names should not be included. Past work should be referred to in the third person. Self-citations and supplementary material (including code repositories) should also be anonymized.
 
 ACM REP submissions can be research, survey, vision, or experience papers. Submissions will be evaluated according to their significance, originality, technical content, style, clarity, relevance, and likelihood of generating discussion. Authors should note that changes to the author list after the submission deadline are not allowed without permission from the PC Chairs. At least one author of each accepted paper is required to register for, attend, and present the work at the conference. 
 
@@ -24,11 +24,9 @@ For full papers with experimental results, submission of accompanying artifacts 
 
 ### Formatting 
 
-Papers must be submitted in PDF format according to the ACM template published in the ACM guidelines, selecting the generic “sigconf” sample. The PDF files must have all non-standard fonts embedded. Papers must be self-contained and in English. If submitting a short paper, authors must indicate “SHORT:” at the beginning of the title. The review process is double-blind. 
+Papers must be submitted in PDF format according to the [ACM template](https://www.acm.org/publications/proceedings-template) published in the ACM guidelines, selecting the generic “sigconf” sample. The PDF files must have all non-standard fonts embedded. Papers must be self-contained and in English. If submitting a short paper, authors must indicate “SHORT:” at the beginning of the title. The review process is double-blind. 
 
 ### Submission Site
 
-The conference submission site is: [https://easychair.org/conferences?conf=acmrep2025](https://easychair.org/conferences?conf=acmrep2025)
-
-{{< cta cta_text="Submission closed" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
+The conference submission site is: TBD
 
