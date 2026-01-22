@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: 2026 ACM Conference on Reproducibility and Replicability
 subtitle: |
-  July 20th - 24th or July 27th - 31st    
+  July 20th - 22nd, 2026    
   Delft University of Technology | Delft, Netherlands | [\@acm-rep](https://www.linkedin.com/company/acm-rep)  
   This is a *hybrid event* -- remote participation is welcome.
 active: true
