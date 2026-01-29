@@ -16,7 +16,7 @@ active: true
 Alex Voulimeneas (Delft University of Technology)  
 
 ### Program Chairs
-Georgios Portokalidis (IMDEA Software)  
+Georgios Portokalidis (IMDEA Software Institute)  
 Soham Chakraborty (TU Delft)  
 
 ### Tutorial Chairs
