@@ -4,16 +4,14 @@ headless: true # This file represents a page section.
 weight: 40 # Order that this section will appear.
 title: "Important Dates"
 subtitle: ""
-active: false
+active: true
 ---
 
-<span style=color:grey>Abstract submission (Long and Short): <s>March 31</s> April 7, 2025, 23:59 AOE</span>  
-<span style=color:grey>Paper submission (Long and Short): April 7, 2025, 23:59 AOE</span>  
-<span style=color:grey>First response to authors: May 12, 2025</span>  
-<span style=color:grey>Revise and Resubmit: <s>May 26</s> May 27, 2025</span>  
-<span style=color:grey>Notification of acceptance: June 23, 2025</span>  
-<span style=color:grey>Camera-ready copy: <s>July 14</s>July 4, 2025</span>  
-<span style=color:grey>Author registration close: July 15, 2025 (see [registration](/2025/registration#authors))</span>  
-Conference:  <span style=color:blue;font-weight:bold>July 29 - 31, 2025</span>  
+Abstract submission (Long and Short): <span style=color:blue;font-weight:bold>March 10, 2026, 23:59 AOE</span>  
+Paper submission (Long and Short): <span style=color:blue;font-weight:bold>March 17, 2026, 23:59 AOE</span>  
+Notification of acceptance: May 26, 2026 
+Camera-ready copy: June 26, 2026  
+Author registration close: July 1, 2026  
+Conference: July 20 - 22, 2026  
 
-{{< cta cta_text="Submission closed" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
+{{< cta cta_text="Submission will open soon" cta_link="" cta_new_tab="false" >}}

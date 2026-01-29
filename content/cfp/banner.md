@@ -31,4 +31,4 @@ The 4th ACM Conference on Reproducibility and Replicability (ACM REP '26) aims t
 
 The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/). (See ACM REP's [history](https://acm-rep.github.io/history).) All accepted papers will be published in the ACM Digital Library.  
 
-**Table of Contents:** [Topics of Interest](#topics) | [Submission Guidelines](#submissions) | [ACM Open](#acmopen) | [Program Committee](#pc)  
+**Table of Contents:** [Topics of Interest](#topics) | [Submission Guidelines](#submissions) | [ACM Open](#acmopen) | [**Important Dates**](#deadlines) | [Program Committee](#pc)  

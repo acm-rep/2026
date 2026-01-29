@@ -11,7 +11,7 @@ design:
 ---
 
 ### Program Chairs
-Georgios Portokalidis (IMDEA Software)  
+Georgios Portokalidis (IMDEA Software Institute)  
 Soham Chakraborty (TU Delft)  
 
 ### Program Committee
