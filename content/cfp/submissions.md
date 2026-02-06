@@ -28,5 +28,9 @@ Papers must be submitted in PDF format according to the [ACM template](https://w
 
 ### Submission Site
 
-The conference submission site is: TBD
+The conference submission site is: [acmrep2026.hotcrp.com](https://acmrep2026.hotcrp.com)
+
+{{< cta cta_text="Submit" cta_link="https://acmrep2026.hotcrp.com" cta_new_tab="false" >}}
+
+(Make sure to read the section on [ACM Open](#acmopen).)
 
