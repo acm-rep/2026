@@ -7,8 +7,8 @@ subtitle: ""
 active: true
 ---
 
-Abstract submission (Long and Short): <span style=color:blue;font-weight:bold>March 10, 2026, 23:59 AOE</span>  
-Paper submission (Long and Short): <span style=color:blue;font-weight:bold>March 17, 2026, 23:59 AOE</span>  
+Abstract submission (Long and Short): <s>March 10</s><span style=color:blue;font-weight:bold>March 17, 2026, 23:59 AOE</span>  
+Paper submission (Long and Short): <s>March 17</s><span style=color:blue;font-weight:bold>March 24, 2026, 23:59 AOE</span>  
 Notification of acceptance: May 26, 2026 
 Camera-ready copy: June 26, 2026  
 Author registration close: July 1, 2026  
