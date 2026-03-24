@@ -7,12 +7,12 @@ subtitle: ""
 active: true
 ---
 
-Abstract submission (Long and Short): <s>March 10</s><span style=color:blue;font-weight:bold>March 17, 2026, 23:59 AOE</span>  
-Paper submission (Long and Short): <s>March 17</s><span style=color:blue;font-weight:bold>March 24, 2026, 23:59 AOE</span>  
-Notification of acceptance: May 26, 2026 
+<span style=color:grey>Abstract submission (Long and Short): <s>March 10</s>March 17, 2026, 23:59 AOE</span>  
+<span style=color:grey>Paper submission (Long and Short): <s>March 17</s>March 24, 2026, 23:59 AOE</span>  
+Notification of acceptance: <span style=color:blue;font-weight:bold>May 26, 2026</span>  
 Camera-ready copy: June 26, 2026  
 Author registration close: July 1, 2026  
 Conference: July 20 - 22, 2026  
 
-{{< cta cta_text="Submit" cta_link="https://acmrep2026.hotcrp.com" cta_new_tab="false" >}}
+{{< cta cta_text="Submissions closed" cta_link="https://acmrep2026.hotcrp.com" cta_new_tab="false" >}}
 

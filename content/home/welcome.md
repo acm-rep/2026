@@ -27,6 +27,4 @@ advanced:
   css_class:
 ---
 
-{{< cta cta_text="Submit papers (abstracts: March 17, papers: March 24)" cta_link="/2026/cfp" >}}
-
 **Contact**: [acmrep26-info-group@ucsc.edu](mailto:acmrep26-info-group@ucsc.edu)
