@@ -19,8 +19,8 @@ Alex Voulimeneas (Delft University of Technology)
 Georgios Portokalidis (IMDEA Software Institute)  
 Soham Chakraborty (TU Delft)  
 
-### Tutorial Chairs
-TBD  
+### Tutorial Chair
+Alex Voulimeneas  
 
 ### Poster Chair
 TBD  
