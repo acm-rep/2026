@@ -6,8 +6,7 @@ title: "Important Dates"
 subtitle: ""
 active: true
 ---
-<span style=color:grey>Tutorial submission:  <s>April 30</s>May 22, 2025, 23:59 AOE</span>  
-<span style=color:grey>Notification of acceptance: <s>May 26</s>June 2, 2025</span>  
+<span style=color:grey>Tutorial submission:  May 22, 2026, 23:59 AOE</span>  
+<span style=color:grey>Notification of acceptance: June 2, 2026</span>  
 
-{{< cta cta_text="Submission closed" cta_link="https://acmrep2025-tutorials.hotcrp.com" cta_new_tab="true" >}}
-
+{{< cta cta_text="Submit by email (PDF format)" cta_link="mailto:A.Voulimeneas@tudelft.nl" cta_new_tab="true" >}}

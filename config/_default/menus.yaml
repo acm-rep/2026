@@ -7,10 +7,10 @@ main:
   - name: Participate
     identifier: participate
     weight: 10
-  # - name: Call for Tutorials
-  #   parent: participate
-  #   url: cft
-  #   weight: 40
+  - name: Call for Tutorials
+    parent: participate
+    url: cft
+    weight: 40
   
   - name: Call for Papers
     parent: participate

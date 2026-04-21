@@ -7,22 +7,22 @@ subtitle: ""
 active: true
 ---
 
-Tutorial proposals should be submitted in PDF format via the submission site: https://acmrep2025-tutorials.hotcrp.com  
+Tutorial proposals should be submitted in PDF format to: [A.Voulimeneas@tudelft.nl](mailto:A.Voulimeneas@tudelft.nl)  
 
 The authors should follow the single-column ACM format (see [acmsmall](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-1-column-format-template/fsyrjmfzcwyy)).  
 
-{{< cta cta_text="Submission closed" cta_link="https://acmrep2025-tutorials.hotcrp.com" cta_new_tab="true" >}}
+{{< cta cta_text="Submit (PDF format)" cta_link="mailto:A.Voulimeneas@tudelft.nl" cta_new_tab="true" >}}
 
 ### Proposal Information
 
 - Title and abstract of the tutorial.
 - Name, email address, affiliation and brief professional biography of the tutorial instructor(s).
 - Tutorial description:
-    - Learning Objectives: Clearly state the tutorial’s key learning outcomes and explicitly describe their relevance to the goals and themes of ACM REP 2025.
+    - Learning Objectives: Clearly state the tutorial’s key learning outcomes and explicitly describe their relevance to the goals and themes of ACM REP 2026.
     - Intended Audience: Clearly indicate the targeted proficiency level (Introductory, Intermediate, or Advanced).
     - Audience Prerequisites: Specify required knowledge and skills clearly. Provide a brief tutorial outline highlighting key sections, with particular emphasis on hands-on practical sessions.
     - Tutorial Delivery: Clearly outline your strategies for actively engaging the audience throughout the tutorial. Examples include interactive coding demonstrations using Jupyter notebooks, panel discussions, live audience polling through platforms like Mentimeter, and structured group discussions on focused micro-topics. Tutorials relying solely on slides for the entire duration (e.g., three hours) will not be accepted, as they do not foster meaningful learning or participation.
-- Tutorial length: full (6 hours) or half day (3 hours).
+- Tutorial length: number of hours, e.g. 3 hours (half day) or 6 hours (full day)
 - Any special equipment/software needs for the tutorial.
 - The proposal description must not exceed two pages in length.
 
@@ -53,11 +53,10 @@ All submitted tutorial proposals will be evaluated based on the following criter
 At least one author of each accepted tutorial is required to register for the conference. 
 {{% /callout %}}
 
-{{< cta cta_text="Submission closed" cta_link="https://acmrep2025-tutorials.hotcrp.com" cta_new_tab="true" >}}
+{{< cta cta_text="Submit by email (PDF format)" cta_link="mailto:A.Voulimeneas@tudelft.nl" cta_new_tab="true" >}} 
 
-### Tutorial Chairs
-Line Pouchard (Sandia National Laboratories)  
-Tanzima Islam (Texas State University)  
+### Tutorial Chair
+Alex Voulimeneas (TU Delft)
 
 ### Contact Information
 For questions and more details, please contact the tutorial organizers at [acmrep25-info-group@ucsc.edu](mailto:acmrep25-info-group@ucsc.edu).
