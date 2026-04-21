@@ -11,7 +11,7 @@ Tutorial proposals should be submitted in PDF format to: [A.Voulimeneas@tudelft.
 
 The authors should follow the single-column ACM format (see [acmsmall](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-1-column-format-template/fsyrjmfzcwyy)).  
 
-{{< cta cta_text="Submit (PDF format)" cta_link="mailto:A.Voulimeneas@tudelft.nl" cta_new_tab="true" >}}
+{{< cta cta_text="Submit by email" cta_link="mailto:A.Voulimeneas@tudelft.nl" cta_new_tab="true" >}}
 
 ### Proposal Information
 
@@ -53,7 +53,7 @@ All submitted tutorial proposals will be evaluated based on the following criter
 At least one author of each accepted tutorial is required to register for the conference. 
 {{% /callout %}}
 
-{{< cta cta_text="Submit by email (PDF format)" cta_link="mailto:A.Voulimeneas@tudelft.nl" cta_new_tab="true" >}} 
+{{< cta cta_text="Submit by email" cta_link="mailto:A.Voulimeneas@tudelft.nl" cta_new_tab="true" >}} 
 
 ### Tutorial Chair
 Alex Voulimeneas (TU Delft)
