@@ -27,7 +27,7 @@ advanced:
   css_class:
 ---
 
-{{< cta cta_text="Call for Tuturials by May 22" cta_link="cft" >}}
+{{< cta cta_text="Call for Tutorials by May 22" cta_link="cft" >}}
 {{< cta cta_text="Registration and event details coming soon" cta_link="" >}}
 
 **Contact**: [acmrep26-info-group@ucsc.edu](mailto:acmrep26-info-group@ucsc.edu)
