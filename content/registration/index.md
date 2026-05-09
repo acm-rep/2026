@@ -18,8 +18,9 @@ Registrations will be online only and will close on July 17, 2026. **On-site reg
  - **Non-Member**: 850 USD (regular: 880 USD)
  - **ACM Student Member**: 380 USD (regular: 450 USD)
  - **Student Non-member**: 450 USD (regular: 500 USD)
+ - **Dinner reception**: 70 USD (regular: 80 USD)
  
-In-person registration includes: access to all sessions and tutorials, breaks and lunches on each day.  
+In-person registration includes: access to all sessions and tutorials, breaks and lunches on each day. Please note that dinner reception requires a separate ticket.  
 
 A limited number of free student registrations are available on request to attend the
 conference virtually. We particularly encourage people from underrepresented
