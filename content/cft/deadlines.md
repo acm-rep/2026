@@ -6,7 +6,7 @@ title: "Important Dates"
 subtitle: ""
 active: true
 ---
-<span style=color:grey>Tutorial submission:  May 22, 2026, 23:59 AOE</span>  
-<span style=color:grey>Notification of acceptance: June 2, 2026</span>  
+Tutorial submission:  <span style=color:blue;font-weight:bold>May 22, 2026, 23:59 AOE</span>  
+Notification of acceptance: June 2, 2026  
 
 {{< cta cta_text="Submit by email" cta_link="mailto:A.Voulimeneas@tudelft.nl" cta_new_tab="true" >}}
