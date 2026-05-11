@@ -28,6 +28,7 @@ advanced:
 ---
 
 {{< cta cta_text="Call for Tutorials by May 22" cta_link="cft" >}}
-{{< cta cta_text="Registration and event details coming soon" cta_link="" >}}
+{{< cta cta_text="Register (lower fees through June 15)" cta_link="registration" >}}
+{{< cta cta_text="Event details coming soon" cta_link="" >}}
 
 **Contact**: [acmrep26-info-group@ucsc.edu](mailto:acmrep26-info-group@ucsc.edu)
