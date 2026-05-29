@@ -9,8 +9,7 @@ weight: 10 # Order that this section will appear.
 title: 2026 ACM Conference on Reproducibility and Replicability
 subtitle: |
   July 20th - 22nd, 2026    
-  Delft University of Technology | Delft, Netherlands | [\@acm-rep](https://www.linkedin.com/company/acm-rep)  
-  This is a *hybrid event* -- remote participation is welcome.
+  Delft University of Technology | Delft, Netherlands | [\@acm-rep](https://www.linkedin.com/company/acm-rep)
 active: true
 design:
   columns: '1'
@@ -28,6 +27,7 @@ advanced:
 ---
 
 {{< cta cta_text="Register (lower fees through June 15)" cta_link="registration" >}}
+{{< cta cta_text="Camera-ready submissions by June 26" cta_link="https://acmrep2026.hotcrp.com" cta_new_tab="false" >}}
 {{< cta cta_text="Event details coming soon" cta_link="" >}}
 
 **Contact**: [acmrep26-info-group@ucsc.edu](mailto:acmrep26-info-group@ucsc.edu)
