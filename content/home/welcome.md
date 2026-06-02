@@ -27,7 +27,6 @@ advanced:
 ---
 
 {{< cta cta_text="Register (lower fees through June 15)" cta_link="registration" >}}
-{{< cta cta_text="Camera-ready submissions by June 26" cta_link="https://acmrep2026.hotcrp.com" cta_new_tab="false" >}}
 {{< cta cta_text="Event details coming soon" cta_link="" >}}
 
 **Contact**: [acmrep26-info-group@ucsc.edu](mailto:acmrep26-info-group@ucsc.edu)

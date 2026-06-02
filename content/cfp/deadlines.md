@@ -14,5 +14,5 @@ Camera-ready copy: <span style=color:blue;font-weight:bold>June 26, 2026</span>
 Author registration close: July 1, 2026  
 Conference: July 20 - 22, 2026  
 
-{{< cta cta_text="Camera-ready submissions" cta_link="https://acmrep2026.hotcrp.com" cta_new_tab="false" >}}
+{{< cta cta_text="Submissions closed" cta_link="" cta_new_tab="false" >}}
 
