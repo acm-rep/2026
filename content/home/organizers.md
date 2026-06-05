@@ -22,8 +22,9 @@ Soham Chakraborty (TU Delft)
 ### Tutorial Chair
 Alex Voulimeneas  
 
-### Local Arrangements Chair
-Sandra Wolf (Delft University of Technology)  
+### Local Arrangements Chairs
+Sandra Wolf (Delft University of Technology)
+Antreas Dionysiou (Delft University of Technology)  
   
 ### Proceedings
 Philippe Bonnet (University of Copenhagen)  
