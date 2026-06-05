@@ -23,7 +23,7 @@ Soham Chakraborty (TU Delft)
 Alex Voulimeneas  
 
 ### Local Arrangements Chairs
-Sandra Wolf (Delft University of Technology)
+Sandra Wolf (Delft University of Technology)  
 Antreas Dionysiou (Delft University of Technology)  
   
 ### Proceedings
