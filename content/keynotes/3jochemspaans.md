@@ -3,11 +3,11 @@
 widget: about
 headless: true
 active: true
-weight: 30
+weight: 40
 title: 
 design:
   columns: 2
-author: m.huisman
+author: 3jochemspaans
 ---  
 
 
