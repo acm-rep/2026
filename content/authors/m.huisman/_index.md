@@ -38,12 +38,10 @@ user_groups:
 - Keynote Speaker
 ---
 
-**Title:** TBD
+**Title:** Bug-free embedded software: a realisable dream? (and how VerCors will help…)  
 
-**Abstract:** TBD
+**Abstract:** Software is everywhere, and (almost) everything we do relies on software. But can we actually rely on software? Software bugs are just as old as software, and frequently cause major disruptions, such as the recent CrowdStrike’s outage due to a software update.  
 
-**Biography:** Computer science researcher, specialised in formal methods and tool-based program specification and verification. Focus on security of applications and platforms for trusted personal devices. Large expertise on thread-modular verification of multithreaded programs, compositional reasoning, and semantics of specification languages.
+I will argue that it should be possible to improve this situation by developing program verification tools that can be used efficiently to provide guarantees about programs in different programming languages, and for a wide range of properties. I will outline how we work towards this dream with the VerCors team. In particular, I will discuss some of the recent developments around VerCors on various use cases for program verification.  
 
-PhD obtained from Radbouw University of Nijmegen on Java program verification in Higher-order logic with PVS and Isabelle. Graduated from Utrecht University.
-
-Specialties: Program verification, Multithreading, Compositional reasoning, Semantics, Formal methods, Security.
+**Biography:** Marieke Huisman is well-known for her work on specification and verification of parallel software. At the University of Twente, she heads the CS department and leads the Formal Methods and Tools group. With her team, she develops the VerCors verifier, a practical verifier for concurrent software verification. She advances the field of program verification, but also actively collaborates with industry on practical case studies and usability studies. Her work has been supported by several grants, such as the ERC Starting Grant for the VerCors project (2011), the EU project CARP (2011), NWO Top project VerDi (2015), VICI project Mercedes (2018), NWO OTP project Cheops (2019), and the SAVES project with WWU Münster (2020). She chairs IPN, the Platform of Dutch Computer Science researchers, and is actively involved in various organisations such as the Netherlands Academy of Engineering, ETAPS, and VerifyThis. She received the Netherlands Prize for ICT research 2013.  
