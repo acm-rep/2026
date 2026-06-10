@@ -3,11 +3,11 @@
 widget: about
 headless: true
 active: true
-weight: 40
+weight: 20
 title: 
 design:
   columns: 2
-author: 3jochemspaans
+author: a-herbertb
 ---  
 
 

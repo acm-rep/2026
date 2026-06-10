@@ -4,7 +4,7 @@ title: Herbert Bos
 
 # Username (this should match the folder name)
 authors:
-- 1herbertb
+- a-herbertb
 
 # Is this the primary user of the site?
 superuser: false

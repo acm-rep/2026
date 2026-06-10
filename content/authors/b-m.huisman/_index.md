@@ -4,7 +4,7 @@ title: Marieke Huisman
 
 # Username (this should match the folder name)
 authors:
-- 2m.huisman
+- b-m.huisman
 
 # Is this the primary user of the site?
 superuser: false
