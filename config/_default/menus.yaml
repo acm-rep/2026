@@ -69,10 +69,10 @@ main:
   #   parent: program
   #   url: posters
   #   weight: 35
-  # - name: Accepted Papers
-  #   parent: program
-  #   url: accepted
-  #   weight: 40
+  - name: Accepted Papers
+    parent: program
+    url: accepted
+    weight: 40
   # - name: Slides
   #   parent: program
   #   url: "https://drive.google.com/drive/folders/167M2Dk3Xi4I9-vph-doooLTvKpAfHTyz?usp=sharing"

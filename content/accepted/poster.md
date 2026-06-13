@@ -4,7 +4,7 @@ headless: true # This file represents a page section.
 weight: 30 # Order that this section will appear.
 title: "Poster"
 subtitle: ""
-active: true
+active: false
 design:
   columns: '1'
 ---
