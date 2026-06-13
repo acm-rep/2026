@@ -28,5 +28,6 @@ advanced:
 
 {{< cta cta_text="Register (lower fees through June 15)" cta_link="registration" >}}
 {{< cta cta_text="Featured Keynote Speakers" cta_link="keynotes" >}}
+{{< cta cta_text="Accepted Papers" cta_link="accepted" >}}
 
 **Contact**: [acmrep26-info-group@ucsc.edu](mailto:acmrep26-info-group@ucsc.edu)
