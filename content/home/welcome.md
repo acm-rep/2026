@@ -26,7 +26,7 @@ advanced:
   css_class:
 ---
 
-{{< cta cta_text="Register (lower fees through June 15)" cta_link="registration" >}}
+{{< cta cta_text="Register (author registration closes on July 6)" cta_link="registration" >}}
 {{< cta cta_text="Featured Keynote Speakers" cta_link="keynotes" >}}
 {{< cta cta_text="Accepted Papers" cta_link="accepted" >}}
 

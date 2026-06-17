@@ -7,6 +7,6 @@ subtitle: ""
 active: true
 ---
 <span style=color:grey>Tutorial submission: May 22, 2026, 23:59 AOE</span>  
-Notification of acceptance: <span style=color:blue;font-weight:bold>June 2, 2026</span>  
+<span style=color:grey>Notification of acceptance: June 2, 2026</span>  
 
 {{< cta cta_text="Submissions closed" cta_link="" cta_new_tab="false" >}}
