@@ -25,8 +25,8 @@ groups to contact us.
 
 ## Important Dates
 
-Early-bird registration close: <span style=color:blue;font-weight:bold>June 15</span>  
-Author registration close: July 6  
+<span style=color:gray>Early-bird registration close: June 15</span>  
+Author registration close: <span style=color:blue;font-weight:bold>July 6</span>  
 Conference: July 20-22, 2026  
 
 ## Terms and Conditions
