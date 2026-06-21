@@ -61,10 +61,10 @@ main:
     parent: program
     url: keynotes
     weight: 20
-  # - name: Tutorials
-  #   parent: program
-  #   url: tutorials
-  #   weight: 30
+  - name: Tutorials, Presentations, and Workshops
+    parent: program
+    url: tutorials
+    weight: 30
   # - name: Posters
   #   parent: program
   #   url: posters
