@@ -8,9 +8,9 @@ title: Tutorials, Presentations, and Workshops
   
 **Where:** TBD  
   
-**Authors:**  [TIB (Technische Informationsbibliothek)](https://www.tib.eu/en/)  
+**Authors:** Vinodh Ilangovan and Markus Stocker  
 
-**Abstract:** This hands-on tutorial, presented by TIB (Technische Informationsbibliothek), introduces the Open Research Knowledge Graph (ORKG) and TIB Knowledge Loom as complementary tools for making research contributions structured, machine-actionable, and reproducible. Participants will learn how to transform unstructured publications into FAIR-compliant knowledge units, create structured comparisons, and integrate semantic objects into dynamic knowledge workflows. No prior experience with knowledge graphs is required.
+**Abstract:** This hands-on tutorial, presented by [TIB (Technische Informationsbibliothek)](https://www.tib.eu/en/), introduces the Open Research Knowledge Graph (ORKG) and TIB Knowledge Loom as complementary tools for making research contributions structured, machine-actionable, and reproducible. Participants will learn how to transform unstructured publications into FAIR-compliant knowledge units, create structured comparisons, and integrate semantic objects into dynamic knowledge workflows. No prior experience with knowledge graphs is required.
 
 ## Presentation: The story behind the Reproducibility Check
 
@@ -38,6 +38,6 @@ title: Tutorials, Presentations, and Workshops
   
 **Where:** TBD  
   
-**Authors:** [DCC (Digital Competence Centre) Team](https://www.tudelft.nl/digital-competence-centre/team)  
+**Authors:** Manuel Garcia Alvarez [(DCC)](https://www.tudelft.nl/digital-competence-centre/team)  
 
 **Abstract:** In this workshop we demonstrate the use of open-source tools developed by the DCC, including, fairly, software templates, and code auditor. In the workshop participants will learn about best practices when developing research software using dedicated tools.
