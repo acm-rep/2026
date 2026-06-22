@@ -8,6 +8,7 @@ sections:
   - block: markdown
     id: welcome
     content:
+      title: Travel & Venue
       text: |-
         Here is a quick preview of Travel & Venue info for those who need to book now. The local team is hard at work to produce a more comprehensive guide that will be posted here shortly.
     design:
@@ -17,7 +18,6 @@ sections:
     id: accommodation
     content:
       title: Accommodations
-      subtitle: ''
       text: |-
         There's no official conference hotel, but the Social Hub and Ibis, both next to Delft station, are good options.
     design:
