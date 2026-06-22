@@ -35,8 +35,8 @@ user_groups:
 - Keynote Speaker
 ---
 
-**Title:** TBD
+**Title:** Scaling replication: Insights from NWO's Replication Studies Programme
 
-**Abstract:** TBD
+**Abstract:** Since 2016, NWO has supported replication research across disciplines through their Replication Studies Programme. In this talk, we cover its origins, the 4 funding rounds (2016–2025), and the key lessons and takeaways on it's design, reception and uptake. We talk about the programme redesign under Open Science NL and about the results from the 2025 call through experiences by recent laureates. We reflect on some of the publication outcomes, methodological diversity, and on how the programme helps foster a culture of credible, transparent, and future-proof science. Finally, we outline the upcoming funding call.
 
 **Biography:** Jochem Spaans is a program officer at NWO and Open Science NL, where he focuses on the Replication Studies programme. He has a background in psychology and a PhD in developmental neuroscience. Alongside his work on Replication Studies, Jochem is actively involved in evaluating and improving aspects of NWO’s funding processes. He also has a broad interest in strengthening the reliability and transparancy of research.
