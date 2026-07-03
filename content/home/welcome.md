@@ -28,7 +28,6 @@ advanced:
 
 {{< cta cta_text="Register (author registration closes on July 6)" cta_link="registration" >}}
 {{< cta cta_text="Featured Keynote Speakers" cta_link="keynotes" >}}
-{{< cta cta_text="Accepted Papers" cta_link="accepted" >}}
-{{< cta cta_text="Tutorials, Presentations, and Workshops" cta_link="tutorials" >}}
+{{< cta cta_text="Preliminary Agenda" cta_link="agenda" >}}
 
 **Contact**: [acmrep26-info-group@ucsc.edu](mailto:acmrep26-info-group@ucsc.edu)

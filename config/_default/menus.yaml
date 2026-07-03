@@ -53,10 +53,10 @@ main:
   - name: Program
     identifier: program
     weight: 30
-  # - name: Agenda
-  #   parent: program
-  #   url: agenda
-  #   weight: 10
+  - name: Preliminary Agenda
+    parent: program
+    url: agenda
+    weight: 10
   - name: Featured Keynote Speakers
     parent: program
     url: keynotes
