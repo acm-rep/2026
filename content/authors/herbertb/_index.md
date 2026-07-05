@@ -41,9 +41,9 @@ user_groups:
 - Keynote Speaker
 ---
 
-**Title:** TBD
+**Title:** How to make yourself unpopular: discussing benchmarking crimes
 
-**Abstract:** TBD
+**Abstract:** Evaluating a scientific contribution by means of experimentation is hard and we frequently get it wrong. Unfortunately, it is also a cornerstone of scientific progress. Over the years, I have been involved in a number of papers about benchmarking and experimentation problems. The reception of these papers has invariably been, eh, interesting, and in some cases even hostile. In this talk, I will discuss some of our work on benchmarking and experimentation in a range of topics (including malware research, vulnerability finding, and program hardening), and explain how, in general, the publication of such papers ensures that at the conference, you have lunch by yourself.
 
 **Biography:** Herbert Bos is full professor at the Vrije  Universiteit Amsterdam  and co-leads the VUSec Systems Security research group with Cristiano Giuffrida, Erik van der Kouwe, Bala Chandrasekaran and Klaus von Gleissenthall. In 2023, he was appointed by royal degree to membership of the Electoral Council (founded 1917), the central authority and advisory body for Dutch elections. Later that same year, he was appointed to membership of the Cyber Security Council (CSR), a national, independent advisory body of the Dutch government and the business community (through the government) composed of high-ranking representatives from public and private sector organisations and the scientific community.
 
