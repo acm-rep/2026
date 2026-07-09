@@ -8,7 +8,7 @@ title: Tutorials, Presentations, and Workshops
   
 **Where:** [ECHO Building](https://www.google.com/url?q=https://maps.app.goo.gl/cwjvq4Y9dhfH4PEE7&source=gmail-imap&ust=1782658547000000&usg=AOvVaw1F6By9TY529TfV725VzsAf)  
   
-**Author:** Yasel Quintero, TU Delft ([y.i.quinterolares@tudelft.nl](mailto:y.i.quinterolares@tudelft.nl)), Joao Guimaraes, TU Delft ([j.guimaraes@tudelft.nl](mailto:j.guimaraes@tudelft.nl)), Aleksandra Wilczynska, 4TU.ResearchData ([a.e.wilczynska@tudelft.nl](mailto:a.e.wilczynska@tudelft.nl))  
+**Authors:** Yasel Quintero, TU Delft ([y.i.quinterolares@tudelft.nl](mailto:y.i.quinterolares@tudelft.nl)), Joao Guimaraes, TU Delft ([j.guimaraes@tudelft.nl](mailto:j.guimaraes@tudelft.nl)), Aleksandra Wilczynska, 4TU.ResearchData ([a.e.wilczynska@tudelft.nl](mailto:a.e.wilczynska@tudelft.nl))  
 
 **Abstract:** Reproducibility remains a persistent challenge in computational research. Although journals increasingly require authors to share the software and data underlying their publications, making these materials available does not necessarily ensure that published results can be independently reproduced.
 
