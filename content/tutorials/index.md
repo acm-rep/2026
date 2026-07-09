@@ -2,23 +2,13 @@
 title: Tutorials, Presentations, and Workshops
 ---
 
-## Tutorial: FAIR & Public Knowledge Infrastructures for Reproducibility
-
-**When:** TBD  
-  
-**Where:** TBD  
-  
-**Authors:** Vinodh Ilangovan and Markus Stocker ([Leibniz Information Centre for Science and Technology and University Library (TIB)](https://www.tib.eu/en/))  
-
-**Abstract:** This hands-on tutorial introduces the Open Research Knowledge Graph (ORKG) and TIB Knowledge Loom as complementary tools for making research contributions structured, machine-actionable, and reproducible. Participants will learn how to transform unstructured publications into FAIR-compliant knowledge units, create structured comparisons, and integrate semantic objects into dynamic knowledge workflows. No prior experience with knowledge graphs is required.
-
 ## Presentation: A Reproducibility Check Service for Computational Research
 
-**When:** TBD  
+**When:** Monday, July 20 2026, 15:45-16:30  
   
-**Where:** TBD  
+**Where:** [ECHO Building](https://www.google.com/url?q=https://maps.app.goo.gl/cwjvq4Y9dhfH4PEE7&source=gmail-imap&ust=1782658547000000&usg=AOvVaw1F6By9TY529TfV725VzsAf)  
   
-**Author:** Yasel Quintero, TU Delft ([y.i.quinterolares@tudelft.nl](mailto:y.i.quinterolares@tudelft.nl)), Joao Guimaraes, TU Delft ([j.guimaraes@tudelft.nl](mailto:j.guimaraes@tudelft.nl)), Aleksandra Wilczynska, 4TU.ResearchData ([a.e.wilczynska@tudelft.nl](mailto:a.e.wilczynska@tudelft.nl))  
+**Authors:** Yasel Quintero, TU Delft ([y.i.quinterolares@tudelft.nl](mailto:y.i.quinterolares@tudelft.nl)), Joao Guimaraes, TU Delft ([j.guimaraes@tudelft.nl](mailto:j.guimaraes@tudelft.nl)), Aleksandra Wilczynska, 4TU.ResearchData ([a.e.wilczynska@tudelft.nl](mailto:a.e.wilczynska@tudelft.nl))  
 
 **Abstract:** Reproducibility remains a persistent challenge in computational research. Although journals increasingly require authors to share the software and data underlying their publications, making these materials available does not necessarily ensure that published results can be independently reproduced.
 
@@ -26,21 +16,37 @@ To support researchers in improving the reproducibility of their work, the [TU D
 
 In this talk, we introduce the Reproducibility Check service and share experiences from the pilot phase, running since spring 2025. We discuss common challenges encountered in reproducing computational studies, approaches to engaging researchers, and lessons learned from implementing the service.  We also reflect on opportunities to develop communities of practice around CODECHECK, in which researchers can contribute as codecheckers for the work of their peers.
 
-## Workshop: [Reproducibility Check](https://www.tudelft.nl/digital-competence-centre/services/reproducibility-check)
+## Tutorial: [Reproducibility Check](https://www.tudelft.nl/digital-competence-centre/services/reproducibility-check)
 
-**When:** TBD  
+**When:** Monday, July 20 2026, 16:30-18:00  
   
-**Where:** TBD  
+**Where:** [ECHO Building](https://www.google.com/url?q=https://maps.app.goo.gl/cwjvq4Y9dhfH4PEE7&source=gmail-imap&ust=1782658547000000&usg=AOvVaw1F6By9TY529TfV725VzsAf)  
   
 **Author:** João Guimarães ([DCC](https://www.tudelft.nl/digital-competence-centre/team))  
 
-**Abstract:** In this workshop participants can try themselves a reproducibility check following the CODECHECK process (Nüst and Eglen, 2021). We suggest selecting a set of checks we did in the past and redo them on the workshop.
+**Abstract:** Following the "_Presentation: A Reproducibility Check Service for Computational Research_", in this session we will show a demo on how we at the DCC conduct our reproducibility checks in collaboration with the 4TU.ResearchData repository.
+ 
+First we will have a brief introduction to the CODECHECK workflow ([Nüst and Eglen, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8311796/)) we adopted in our Reproducibility Check service and the resulting CODECHECK certificate.
+ 
+Then we will go through a demo showing how we put into practice the CODECHECK workflow by revisiting step by step a few of the reproducibility checks we completed in the past.
+ 
+The materials of the demo are made available in this [hackmd](https://hackmd.io/@axpqnk--TeWdye8B9IjlUg/S1w7ducmGe). Not required to bring your own laptop, but if participants prefer a more hands-on approach and try the reproducibility checks themselves they are welcome to do so.
+
+## Tutorial: FAIR & Public Knowledge Infrastructures for Reproducibility
+
+**When:** Tuesday, July 21 2026, Part 1: 13:30-15:00, Part 2: 15:30-17:00  
+  
+**Where:** [ECHO Building](https://www.google.com/url?q=https://maps.app.goo.gl/cwjvq4Y9dhfH4PEE7&source=gmail-imap&ust=1782658547000000&usg=AOvVaw1F6By9TY529TfV725VzsAf)  
+  
+**Authors:** Vinodh Ilangovan and Markus Stocker ([Leibniz Information Centre for Science and Technology and University Library (TIB)](https://www.tib.eu/en/))  
+
+**Abstract:** This hands-on tutorial introduces the Open Research Knowledge Graph (ORKG) and TIB Knowledge Loom as complementary tools for making research contributions structured, machine-actionable, and reproducible. Participants will learn how to transform unstructured publications into FAIR-compliant knowledge units, create structured comparisons, and integrate semantic objects into dynamic knowledge workflows. No prior experience with knowledge graphs is required.
 
 ## Workshop: Tools for sustainable software
 
-**When:** TBD  
+**When:** Wednesday, July 22 2026, 13:30-15:00    
   
-**Where:** TBD  
+**Where:** [ECHO Building](https://www.google.com/url?q=https://maps.app.goo.gl/cwjvq4Y9dhfH4PEE7&source=gmail-imap&ust=1782658547000000&usg=AOvVaw1F6By9TY529TfV725VzsAf)  
   
 **Author:** Manuel Garcia Alvarez ([DCC](https://www.tudelft.nl/digital-competence-centre/team))  
 
