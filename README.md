@@ -6,9 +6,13 @@ Most markdown for the content of the website is in `/content`. Each webpage has 
 
 Images and movies can be included using html within the body of each page or included by setting attributes specific to a particular widget. With some exceptions, images are stored in `/assets/media`. For instructions on how to reference media, see [here](https://docs.hugoblox.com/reference/markdown/#images).
 
-## The special meanings of main and gh-pages branches
+## Automatic rendering of the website
 
-Everything that is pushed or merged with the `main` branch will automatically trigger a workflow that will render the page using the `gh-pages` branch. The only purpose of `gh-pages` is for that workflow to function. If you are interested, the workflow is specified in `.github/workflows/gh-pages.yml`. **Please do not push to either of these branches directly, and please do not issue a pull request to the `gh-pages` branch.**
+Everything that is pushed or merged with the `main` branch will automatically trigger a workflow that will newly render the website. If you are interested, the workflow is specified in `.github/workflows/hugo.yml`. Failures of this workflow can be examined in the Actions tab of the github repository and can often be fixed by updating the versions of actions within the workflow.
+
+### HUGO_VERSION: 0.119.0
+
+The website is using HugoBlox legacy code that can cause failures with `hugo` newer than `0.119.0`. At some point these legacy pieces will have to be replaced. As of this writing, it is not clear whether that time has arrived. Until then, please do not increase HUGO_VERSION.
 
 ## Editing the website
 
