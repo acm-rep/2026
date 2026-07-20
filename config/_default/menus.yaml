@@ -53,7 +53,7 @@ main:
   - name: Program
     identifier: program
     weight: 30
-  - name: Preliminary Agenda
+  - name: Agenda
     parent: program
     url: agenda
     weight: 10
