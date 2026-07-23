@@ -4,7 +4,7 @@ Active Reproducibility for File-Based Exploratory Science,"Anthony Westbrook, Bo
 AI-Generated Code Is Not Reproducible (Yet): An Empirical Study of Dependency Gaps in LLM-Based Coding Agents,"Bhanu Prakash Vangala, Ashish Gehani, and Tanu Malik"
 CodeR3: A GenAI-Powered Scientific Workflow Repair and Revival Ecosystem,"Asif Zaman, Kallol Naha, Khalid Belhajjame, and Hasan M. Jamil"
 FAIRit: Automating FAIR Dataset Publication,"Lázaro Costa, Miguel Vilaña, and Jácome Cunha"
-Measuring Reproducibility in LLM Research: A Rubric and Cross-Topic Corpus Study,"Chun Jie Chong, Chenxi Hou, Sichao Liu, and Zhihao Yao"
+Measuring Reproducibility in LLM Research: A Rubric and Cross-Topic Corpus Study 🏆 **BEST PAPER**,"Chun Jie Chong, Chenxi Hou, Sichao Liu, and Zhihao Yao"
 Mutating the 'Immutable': A Large-Scale Study of Git Tag Alterations,"Solal Rapaport, Laurent Pautet, Samuel Tardieu, Stefano Zacchiroli, and Théo Zimmermann"
 Point-and-Click Reproducibility for Command-Line Data Analysis,"Anthony Westbrook, Lakshmi Ongolu, Bocheng Cui, and Elizabeth Varki"
 Record and Replay Methods for Software Engineering Reproducibility: A Cross-Layer Survey and Taxonomy,"Chenxi Hou, Chun Jie Chong, Mahya Samdaliri, Sichao Liu, and Zhihao Yao"
