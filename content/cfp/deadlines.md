@@ -12,7 +12,7 @@ active: true
 <span style=color:grey>Notification of acceptance: May 26, 2026</span>  
 <span style=color:grey>Camera-ready copy: <s>June 26</s> July 1, 2026</span>  
 <span style=color:grey>Author registration close: July 1, 2026</span>  
-Conference: July 20 - 22, 2026  
+<span style=color:grey>Conference: July 20 - 22, 2026</span>  
 
 {{< cta cta_text="Submissions closed" cta_link="" cta_new_tab="false" >}}
 
