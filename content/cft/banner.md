@@ -32,4 +32,4 @@ The 2026 ACM Conference on Reproducibility and Replicability (ACM REP '26) aims 
 
 The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/) (see [here](https://acm-rep.github.io/history) for ACM REP's history). 
 
-**Table of Contents:** [Topics of Interest](#topics) | [Submission Guidelines](#submissions) | [**Important Dates**](#deadlines)
+**Table of Contents:** [Topics of Interest](#topics) | [Submission Guidelines](#submissions) | [Important Dates](#deadlines)
