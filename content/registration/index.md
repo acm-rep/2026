@@ -2,7 +2,7 @@
 title: "Registration"
 ---
 
-{{% cta cta_text="Register" cta_link="https://cvent.me/KyK9lr" cta_new_tab="false" %}}
+{{% cta cta_text="Registration closed" cta_link="https://cvent.me/KyK9lr" cta_new_tab="false" %}}
 
 
 
@@ -26,8 +26,8 @@ groups to contact us.
 ## Important Dates
 
 <span style=color:gray>Early-bird registration close: June 15</span>  
-Author registration close: <span style=color:blue;font-weight:bold>July 6</span>  
-Conference: July 20-22, 2026  
+<span style=color:gray>Author registration close: July 6</span>  
+<span style=color:gray>Conference: July 20-22, 2026</span>  
 
 ## Terms and Conditions
 

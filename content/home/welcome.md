@@ -29,7 +29,6 @@ advanced:
 {{< cta cta_text="Agenda" cta_link="agenda" >}}
 {{< cta cta_text="Featured Keynote Speakers" cta_link="keynotes" >}}
 {{< cta cta_text="Tutorials, Presentations, and Workshops" cta_link="tutorials" >}}
-{{< cta cta_text="Register" cta_link="registration" >}}
 
 
 

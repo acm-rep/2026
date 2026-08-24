@@ -5,7 +5,7 @@ active: false
 weight: 15
 title: Featured Keynote Speakers
 subtitle: >-
-  Meet the ACM REP '23 Keynote Speakers (more to come).
+  Meet the ACM REP '26 Keynote Speakers.
 content:
   user_groups:
     - Keynote Speaker
