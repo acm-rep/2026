@@ -26,9 +26,8 @@ advanced:
   css_class:
 ---
 
+{{< cta cta_text="Proceedings" cta_link="https://dl.acm.org/doi/proceedings/10.1145/3820002" >}}
 {{< cta cta_text="Agenda" cta_link="agenda" >}}
-{{< cta cta_text="Featured Keynote Speakers" cta_link="keynotes" >}}
-{{< cta cta_text="Tutorials, Presentations, and Workshops" cta_link="tutorials" >}}
 
 
 
